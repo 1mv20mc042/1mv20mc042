@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript,Python,React...
 - 🌱 I’m currently Working in  Reactjs, MUI and ChakraUI..
 - 💞️ I’m looking to collaborate on ...
-- 📫 santanupadhy@gmail.com
+- 📫 santunupadhy2@gmail.com
 
 <!---
 1mv20mc042/1mv20mc042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
