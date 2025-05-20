@@ -1,6 +1,6 @@
 - 👋 Hi, I’m santanu kumar padhy
 - 👀 I’m interested in Javascript,Python,React...
-- 🌱 I’m currently Working in  Reactjs, MUI and ChakraUI..
+- 🌱 I’m currently Working in  Reactjs, MUI and prime react
 - 💞️ I’m looking to collaborate on ...
 - 📫 santunupadhy2@gmail.com
 
